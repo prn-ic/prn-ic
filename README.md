@@ -17,10 +17,10 @@ public class Developer
 ```
 ### Stats 📊
 
-![Prn-ic's GitHub stats](https://github-readme-stats.vercel.app/api?username=prn-ic&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=prn-ic&theme=dark)](https://git.io/streak-stats)
+![Prn-ic's GitHub stats](https://github-readme-stats.vercel.app/api?username=prn-ic&show_icons=true&theme=dark) 
 
 
-![Prn-ic's GitHub trophies](https://github-profile-trophy.vercel.app/?username=prn-ic&theme=darkhub)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prn-ic&theme=dark)](https://git.io/streak-stats)
 
 ### Skills, Technologies & Other ⚙️
 > Code 👨‍💻 </br></br>
