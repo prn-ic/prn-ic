@@ -1,4 +1,4 @@
-## $ Hello, web. I'm zmqp
+## $ Hello, www. I'm zmqp
 ```c#
 namespace World.Wide.Web;
 
