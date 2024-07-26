@@ -11,7 +11,7 @@ public class Developer
     public string[] UsedProgrammingLanguages { get; set; } = new [
         "C#", "Js", "etc"
     ];
-    public bool AlreadyWork { get; set; } = true;
+    public bool AlreadyWork { get; set; } = false;
     public string? Role { get; set; } = "Backend developer";
 }
 ```
@@ -33,9 +33,3 @@ public class Developer
 > Tools 🧰 </br></br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-> System 🖥️ </br>
-</br> OS: Linux
-</br> Distribution: Arch linux
-</br> Window System: Wayland
-</br> Window Manager: Hyprland
-</br> Dots: it will be here soon
