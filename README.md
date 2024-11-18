@@ -1,4 +1,4 @@
-<h1 align="center">$ Hello, www, I'm zmqp</h1>
+<h1 align="center">$ Hello, www, I'm shortener</h1>
 
 ### About me 🙋‍♂️
 ```c#
